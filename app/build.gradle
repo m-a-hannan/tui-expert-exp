@@ -11,7 +11,7 @@ android {
         targetSdkVersion 27
         flavorDimensions "default"
 
-        versionName "v0.4.4e"
+        versionName "v0.4.4h"
         versionCode 8
     }
     buildTypes {
