@@ -10,6 +10,7 @@
         android:smallScreens="true" />
 
     <!-- permissions -->
+    <uses-permission android:name="com.android.alarm.permission.SET_ALARM" /><!-- Added by Ryda-->
     <uses-permission android:name="android.permission.CAMERA" />
     <uses-permission android:name="android.permission.FLASHLIGHT" />
     <uses-permission android:name="android.permission.BLUETOOTH" />
