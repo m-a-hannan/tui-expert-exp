@@ -81,7 +81,15 @@
     <string name="help_timer">Sets a timer with the given value.
         \n\nUsage
         \n$ timer 5s/5m/5h (5s is 5 seconds, 5m is 5 minutes, 5h is 5 hours)
-        \n $ timer 5s title_of_timer
+        \n$ timer 5s title_of_timer
+    </string>
+
+    <!-- Added by abdul hannan -->
+    <string name="help_alarm">Sets a timer with the given value.
+        \n\nUsage
+        \n$ alarm 14:30 sets an alarm for 2:30 PM
+        \n$ alarm 07:45 "Wake up" sets an alarm with a custom title
+        \n$ alarm 08:00 "Weekday Alarm" MON,TUE,WED,THU,FRI sets a recurring weekday alarm
     </string>
 
     <!-- files -->
