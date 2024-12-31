@@ -1,6 +1,6 @@
 /**
  * Ref: https://developer.android.com/reference/android/provider/AlarmClock
- */
+ **/
 package de.reckendrees.systems.tui.expert.commands.main.raw;
 
 import android.Manifest;
